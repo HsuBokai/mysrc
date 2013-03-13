@@ -1,0 +1,5 @@
+#!bin/bash
+
+PATH=$PATH:$HOME/mysrc:.
+export PATH
+

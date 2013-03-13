@@ -1,0 +1,4 @@
+#! /bin/bash
+
+CDPATH=$CDPATH:$HOME/Desktop/cryptofs-0.6.0:$HOME/文件/:$HOME/Desktop
+export CDPATH
